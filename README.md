@@ -1,3 +1,10 @@
+### About Project
+
+- ADDING AND REMOVAL OF NOTES with time of title and content
+- REACT
+- metodology BEM
+- CSS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

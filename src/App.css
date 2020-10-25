@@ -1,6 +1,20 @@
-.main-box {
-  background-color: aliceblue;
+.notepad {
+  background-color: greenyellow;
   display: flex;
+  flex-direction: column;
   justify-content: center;
-  align-items: start;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.notepad__title { margin-bottom: 20px;}
+
+.notepad__form {
+  display: flex;
+  flex-direction: column;
+}
+
+.notes__single-note {
+  margin-top: 20px;
 }
